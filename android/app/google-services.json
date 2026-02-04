@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137729617710",
+    "project_id": "widget-game-ea447",
+    "storage_bucket": "widget-game-ea447.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137729617710:android:6aca0abdd852ce05b854bf",
+        "android_client_info": {
+          "package_name": "com.example.widget_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTOVvSADrf5yVq2Xn-v0E-yPex4AS3kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
